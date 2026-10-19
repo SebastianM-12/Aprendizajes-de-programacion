@@ -52,10 +52,10 @@ RM = C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases
+CMAKE_SOURCE_DIR = C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug
+CMAKE_BINARY_DIR = C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/clases.dir/depend.make
@@ -69,32 +69,32 @@ include CMakeFiles/clases.dir/progress.make
 include CMakeFiles/clases.dir/flags.make
 
 CMakeFiles/clases.dir/main.cpp.obj: CMakeFiles/clases.dir/flags.make
-CMakeFiles/clases.dir/main.cpp.obj: C:/Users/soportedrai/Desktop/Programacion/Codigos/C++/clases/main.cpp
+CMakeFiles/clases.dir/main.cpp.obj: C:/Users/soportedrai/Desktop/Aprendizajes-de-programacion/Codigos/C++/clases/main.cpp
 CMakeFiles/clases.dir/main.cpp.obj: CMakeFiles/clases.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/clases.dir/main.cpp.obj"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/clases.dir/main.cpp.obj -MF CMakeFiles\clases.dir\main.cpp.obj.d -o CMakeFiles\clases.dir\main.cpp.obj -c C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/clases.dir/main.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/clases.dir/main.cpp.obj -MF CMakeFiles\clases.dir\main.cpp.obj.d -o CMakeFiles\clases.dir\main.cpp.obj -c C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases\main.cpp
 
 CMakeFiles/clases.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/clases.dir/main.cpp.i"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases\main.cpp > CMakeFiles\clases.dir\main.cpp.i
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases\main.cpp > CMakeFiles\clases.dir\main.cpp.i
 
 CMakeFiles/clases.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/clases.dir/main.cpp.s"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases\main.cpp -o CMakeFiles\clases.dir\main.cpp.s
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases\main.cpp -o CMakeFiles\clases.dir\main.cpp.s
 
 CMakeFiles/clases.dir/contar.cpp.obj: CMakeFiles/clases.dir/flags.make
-CMakeFiles/clases.dir/contar.cpp.obj: C:/Users/soportedrai/Desktop/Programacion/Codigos/C++/clases/contar.cpp
+CMakeFiles/clases.dir/contar.cpp.obj: C:/Users/soportedrai/Desktop/Aprendizajes-de-programacion/Codigos/C++/clases/contar.cpp
 CMakeFiles/clases.dir/contar.cpp.obj: CMakeFiles/clases.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/clases.dir/contar.cpp.obj"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/clases.dir/contar.cpp.obj -MF CMakeFiles\clases.dir\contar.cpp.obj.d -o CMakeFiles\clases.dir\contar.cpp.obj -c C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases\contar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/clases.dir/contar.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/clases.dir/contar.cpp.obj -MF CMakeFiles\clases.dir\contar.cpp.obj.d -o CMakeFiles\clases.dir\contar.cpp.obj -c C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases\contar.cpp
 
 CMakeFiles/clases.dir/contar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/clases.dir/contar.cpp.i"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases\contar.cpp > CMakeFiles\clases.dir\contar.cpp.i
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases\contar.cpp > CMakeFiles\clases.dir\contar.cpp.i
 
 CMakeFiles/clases.dir/contar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/clases.dir/contar.cpp.s"
-	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases\contar.cpp -o CMakeFiles\clases.dir\contar.cpp.s
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases\contar.cpp -o CMakeFiles\clases.dir\contar.cpp.s
 
 # Object files for target clases
 clases_OBJECTS = \
@@ -110,7 +110,7 @@ clases.exe: CMakeFiles/clases.dir/build.make
 clases.exe: CMakeFiles/clases.dir/linkLibs.rsp
 clases.exe: CMakeFiles/clases.dir/objects1.rsp
 clases.exe: CMakeFiles/clases.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable clases.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable clases.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\clases.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -122,6 +122,6 @@ CMakeFiles/clases.dir/clean:
 .PHONY : CMakeFiles/clases.dir/clean
 
 CMakeFiles/clases.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\CMakeFiles\clases.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\CMakeFiles\clases.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/clases.dir/depend
 

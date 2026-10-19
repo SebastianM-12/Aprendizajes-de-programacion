@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/soportedrai/Desktop/Programacion/Codigos/C++/clases/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug"
+			"value" : "c:/Users/soportedrai/Desktop/Aprendizajes-de-programacion/Codigos/C++/clases/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -467,7 +467,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/soportedrai/Desktop/Programacion/Codigos/C++/clases/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/soportedrai/Desktop/Aprendizajes-de-programacion/Codigos/C++/clases/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/soportedrai/Desktop/Programacion/Codigos/C++/clases"
+			"value" : "C:/Users/soportedrai/Desktop/Aprendizajes-de-programacion/Codigos/C++/clases"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -1039,7 +1039,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/soportedrai/Desktop/Programacion/Codigos/C++/clases/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+			"value" : "C:/Users/soportedrai/Desktop/Aprendizajes-de-programacion/Codigos/C++/clases/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
 		},
 		{
 			"name" : "CMAKE_PROJECT_NAME",
@@ -1455,7 +1455,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/soportedrai/Desktop/Programacion/Codigos/C++/clases/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qtcreator/cmake-helper"
+			"value" : "C:/Users/soportedrai/Desktop/Aprendizajes-de-programacion/Codigos/C++/clases/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qtcreator/cmake-helper"
 		},
 		{
 			"name" : "QT_CREATOR_ENABLE_MAINTENANCE_TOOL_PROVIDER",
@@ -1551,7 +1551,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/soportedrai/Desktop/Programacion/Codigos/C++/clases/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug"
+			"value" : "C:/Users/soportedrai/Desktop/Aprendizajes-de-programacion/Codigos/C++/clases/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug"
 		},
 		{
 			"name" : "clases_IS_TOP_LEVEL",
@@ -1575,7 +1575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/soportedrai/Desktop/Programacion/Codigos/C++/clases"
+			"value" : "C:/Users/soportedrai/Desktop/Aprendizajes-de-programacion/Codigos/C++/clases"
 		}
 	],
 	"kind" : "cache",

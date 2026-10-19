@@ -1,6 +1,6 @@
 CMakeFiles/clases.dir/contar.cpp.obj: \
- C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases\contar.cpp \
- C:\Users\soportedrai\Desktop\Programacion\Codigos\C++\clases\contar.h \
+ C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases\contar.cpp \
+ C:\Users\soportedrai\Desktop\Aprendizajes-de-programacion\Codigos\C++\clases\contar.h \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/iostream \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
  C:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
