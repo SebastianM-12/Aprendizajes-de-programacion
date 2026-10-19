@@ -5,11 +5,11 @@ class contar
 {
 public:
     contar(); //Este es el contructor
-    ~contar();
+    void establecernum();
     void imprimir();
 
 private:
-    int x;
+    int* x;
 };
 
 #endif // CONTAR_H
