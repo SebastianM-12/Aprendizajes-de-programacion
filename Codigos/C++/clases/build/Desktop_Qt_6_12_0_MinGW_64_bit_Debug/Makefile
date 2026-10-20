@@ -197,6 +197,30 @@ contar.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\clases.dir\build.make CMakeFiles/clases.dir/contar.cpp.s
 .PHONY : contar.cpp.s
 
+direccion.obj: direccion.cpp.obj
+.PHONY : direccion.obj
+
+# target to build an object file
+direccion.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\clases.dir\build.make CMakeFiles/clases.dir/direccion.cpp.obj
+.PHONY : direccion.cpp.obj
+
+direccion.i: direccion.cpp.i
+.PHONY : direccion.i
+
+# target to preprocess a source file
+direccion.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\clases.dir\build.make CMakeFiles/clases.dir/direccion.cpp.i
+.PHONY : direccion.cpp.i
+
+direccion.s: direccion.cpp.s
+.PHONY : direccion.s
+
+# target to generate assembly for a file
+direccion.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\clases.dir\build.make CMakeFiles/clases.dir/direccion.cpp.s
+.PHONY : direccion.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -237,6 +261,9 @@ help:
 	@echo ... contar.obj
 	@echo ... contar.i
 	@echo ... contar.s
+	@echo ... direccion.obj
+	@echo ... direccion.i
+	@echo ... direccion.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

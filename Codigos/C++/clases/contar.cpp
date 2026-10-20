@@ -3,16 +3,19 @@
 using namespace std;
 
 contar::contar() {
+    x = new int;
     *x = 0;
 
 }
 
-
+contar::~contar(){
+    delete x;
+}
 void contar::establecernum(){
     cout<<"Ingrese un numero "<<endl;
     int num = 0;
     cin>>num;
-    *x = num;
+    x = &num;
 }
 
 void contar::imprimir(){

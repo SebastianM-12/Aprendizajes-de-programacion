@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/soportedrai/Desktop/Aprendizajes-de-programacion/Codigos/C++/clases/contar.cpp" "CMakeFiles/clases.dir/contar.cpp.obj" "gcc" "CMakeFiles/clases.dir/contar.cpp.obj.d"
+  "C:/Users/soportedrai/Desktop/Aprendizajes-de-programacion/Codigos/C++/clases/direccion.cpp" "CMakeFiles/clases.dir/direccion.cpp.obj" "gcc" "CMakeFiles/clases.dir/direccion.cpp.obj.d"
   "C:/Users/soportedrai/Desktop/Aprendizajes-de-programacion/Codigos/C++/clases/main.cpp" "CMakeFiles/clases.dir/main.cpp.obj" "gcc" "CMakeFiles/clases.dir/main.cpp.obj.d"
   )
 

@@ -19,9 +19,9 @@ int main()
     pun = &valor;
     cout<<"El valor de pun es: "<<*pun<<endl;
 
-    //usp de referencias(direccion)
+    //uso de referencias(direccion)
 
-    int valor2 = 0;
+    int valor2;
     cout<<"Ingrese un valor para la variable de direccion: "<<endl;
     cin>>valor2;
     int &refpun = valor2;

@@ -6,7 +6,8 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(clases main.cpp
-    contar.h contar.cpp)
+    contar.h contar.cpp
+    direccion.h direccion.cpp)
 
 include(GNUInstallDirs)
 install(TARGETS clases

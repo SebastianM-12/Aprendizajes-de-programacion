@@ -5,6 +5,7 @@ class contar
 {
 public:
     contar(); //Este es el contructor
+    ~contar();
     void establecernum();
     void imprimir();
 
