@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\punteros_memoria_dinamica.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\punteros_memoria_dinamica.dir/objects.a @CMakeFiles\punteros_memoria_dinamica.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\punteros_memoria_dinamica.dir/objects.a -Wl,--no-whole-archive -o punteros_memoria_dinamica.exe -Wl,--out-implib,libpunteros_memoria_dinamica.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\punteros_memoria_dinamica.dir\linkLibs.rsp
